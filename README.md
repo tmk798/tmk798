@@ -1,11 +1,14 @@
-<h2 align="left">Hi there 👋<br><br>I'm Tanmay Mahesh Khule — welcome to my GitHub profile!<br><br>🎓 Pursuing   Computer Science Engineering Degree<br><br>🔭 Working on a Monument Predictor and Identifier project<br><br>🌱 Learning Full Stack Development and exploring AI/ML<br><br>👨‍💻 Looking to collaborate on open-source and innovative tech projects<br><br>💬 Ask me about JavaScript | MERN Stack<br><br>📫 Reach me at: tanmaykhule1feb@gmail.com<br><br>🌐 Portfolio: <a href="https://thetmkshowportfoliowebsite007.netlify.app/" target="_blank">bit.ly/thetmkshow</a><br><br>⚡ Quote of the Day</h2>
-<p>"The present is theirs; the future, for which I really worked, is mine." - ✍️ Nikola Tesla ⚡🚀</p>
-<br>
+<div style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
 
+<h2 align="left">Hi there 👋<br><br>I'm Tanmay Mahesh Khule — welcome to my GitHub profile!<br><br>🎓 Pursuing Computer Science Engineering Degree<br><br>🔭 Working on a Monument Predictor and Identifier project<br><br>🌱 Learning Full Stack Development and exploring AI/ML<br><br>👨‍💻 Looking to collaborate on open-source and innovative tech projects<br><br>💬 Ask me about JavaScript | MERN Stack<br><br>📫 Reach me at: tanmaykhule1feb@gmail.com<br><br>🌐 Portfolio: <a href="https://thetmkshowportfoliowebsite007.netlify.app/" target="_blank" style="color: #58A6FF;">bit.ly/thetmkshow</a><br><br>⚡ Quote of the Day</h2>
+<p style="color: #C9D1D9;">"The present is theirs; the future, for which I really worked, is mine." - ✍️ Nikola Tesla ⚡🚀</p>
+<br>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl1MTB4N3hrN2hlNWlmbDZ2bWVtMnVzcmQ4ZnMzc2x1bDR0NXkxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OlPQEdkE7eOdZ22Ib4/giphy.gif"  />
+<div align="center">
+  <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl1MTB4N3hrN2hlNWlmbDZ2bWVtMnVzcmQ4ZnMzc2x1bDR0NXkxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OlPQEdkE7eOdZ22Ib4/giphy.gif"  />
+</div>
 
 ###
 
@@ -86,20 +89,22 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tmk798/tmk798/output/snake.svg" alt="Snake animation" />
+<div>
+  <img src="https://raw.githubusercontent.com/tmk798/tmk798/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left" style="color: #C9D1D9;">Hello World!!</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmk798&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmk798&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=tmk798&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=tmk798&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmk798&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmk798&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmk798&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tmk798&theme=dracula&hide_border=false&fire=DD4727&ring=DD4727&currStreakLabel=DD4727&background=0D1117" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=tmk798&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmk798&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -112,4 +117,6 @@
 
 <div align="center">
   <img height="200" src="https://yt3.googleusercontent.com/Ban119o_IWGE68yVt5fxFlQaUruh9jsP1sfdZdWQmXOVdz_Nh8IHnHhGcySNyuYgAr2y82KXhg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
+</div>
+
 </div>
